@@ -1,0 +1,11 @@
+function loopingstar(){
+//let line = "*";
+for (let starCount = 0; starCount < 25; starCount++){
+//let line = line + "*"; 
+console.log("*");
+
+
+}
+}
+
+loopingstar();
